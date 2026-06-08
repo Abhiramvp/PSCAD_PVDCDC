@@ -2,6 +2,10 @@
 
 This repository contains a simple PSCAD model of a photovoltaic (PV) source connected to a DC-DC boost converter. The model allows the user to vary irradiance, temperature, and DC-link voltage reference. A PI-based voltage control loop generates the duty command used to produce the switching signal for the boost converter switch.
 
+
+![PSCAD_PvDCDC](./image.png)
+
+
 ### Overview
 
 The model demonstrates the basic operation of a PV-fed boost converter with closed-loop DC voltage control. The PV output depends on the selected irradiance and temperature conditions. The boost converter regulates the DC-side voltage by adjusting the switch duty ratio through a PI controller.
