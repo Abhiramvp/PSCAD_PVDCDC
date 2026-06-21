@@ -169,8 +169,6 @@ The model is mainly intended for learning, demonstration, and basic PSCAD simula
 ### Author
 
 Abhiram V. P. Premakumar, Ph.D.
-Postdoctoral Research Associate
-Department of Electrical Engineering
 The University of Texas at Arlington
 
 ```
