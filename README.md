@@ -16,7 +16,7 @@ The user can change:
 
 The PI controller then generates the duty command, and this duty command is used to create the switching signal for the boost converter switch.
 
-![PSCAD_PvDCDC](./image.png)
+![PSCAD_PvDCDC](./IMAGEPVDC.png)
 
 ### What this model does
 
